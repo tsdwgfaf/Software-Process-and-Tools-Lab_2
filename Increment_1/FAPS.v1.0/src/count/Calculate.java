@@ -1,5 +1,8 @@
 package count;
 
+/**
+ * 计算模块
+ */
 public class Calculate {
     private static int num1;
     private static int num2;
